@@ -1,36 +1,21 @@
-
-## Readme Generator
-
-## Table of Contents
-
-* [Description](#description)
-
-* [Installation](#installation)
-
-* [Usage](#usage)
-
-* [License](#license)
-
-* [Contributing](#contributing)
-
-* [Test](#test)
-
-* [Questions](#questions)
-
-
-
-* [License](#license)
-
-
-## Description
-    generating Readme
-
-## Installation
-    google it
-
-## License
-![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)
-
-## questions
-Here is a link to my GitHub Profile if you want to see more of my work: [FinallyExonerated](https://github.com/FinallyExonerated)
-
+# readme
+  ## Description
+  create readme generator
+  ## table of content
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](tests)
+  * [Questions](#questions)
+  ## Installation
+  help with readme
+  ## Usage
+  readme easier
+  ## contributing
+  code
+  ## test
+  nothing we all did this
+  The MIT License
+  ## Questions
+  For Further Questions, Contact me at :
+  * Github:[finallyexonerated](https://github.com/finallyexonerated)
